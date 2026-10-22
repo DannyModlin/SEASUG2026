@@ -12,7 +12,7 @@
 
 ### You do NOT have an EDU email address
 
-But what if you do not have EDU credentials but you do have a SAS profile? Can you still have access to SAS Viya for Learners? Yes, you will be granted access during the timeframe of WUSS 2026. Here is what you need to do:
+But what if you do not have EDU credentials but you do have a SAS profile? Can you still have access to SAS Viya for Learners? Yes, you will be granted access during the timeframe of SEASUG 2026. Here is what you need to do:
 
 1. Log into your SAS Profile at learn.sas.com.
 2. Click on My Training in the upper right corner next to the cart icon.
