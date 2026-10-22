@@ -1,6 +1,7 @@
 # SEASUG2026
 
 <img width="1694" height="283" alt="image" src="https://github.com/user-attachments/assets/ccf21d5a-18a3-437b-b433-0dbafaa8d3af" />
+
 ## Gaining Access to SAS Viya for Learners:
 ### You have an EDU email address
 
